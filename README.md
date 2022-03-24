@@ -1,17 +1,6 @@
 # Skin Cancer Detection
 
-### Website: https://skin-cancer-v1.herokuapp.com/
 
-### Docker Image: https://hub.docker.com/r/conero007/skin-cancer-detection
-
----
-## Table of Contents
-* [Project Summary](#summary)
-* [Development Process](#process)
-* [Model Creation](#model)
-* [Website](#website)
-* [Deployment](#deploy)
-* [Refernces](#refernces)
 
 ---
 
